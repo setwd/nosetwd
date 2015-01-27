@@ -1,0 +1,11 @@
+Package: nosetwd
+Type: Package
+Title: You Are Doing It Wrong.
+Version: 0.1
+Author: Set W. D. <nosetwd@gmail.com>
+Maintainer: Set W. D. <nosetwd@gmail.com>
+Description: Provides the real setwd function.
+Depends:
+    R (>= 3.0.0)
+License: MIT + file LICENSE
+LazyData: true
